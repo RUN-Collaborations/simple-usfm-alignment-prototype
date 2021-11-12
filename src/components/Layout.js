@@ -1,6 +1,7 @@
 import { useState } from 'react';
 
 import UsfmFileEditor from './UsfmFileEditor';
+import AnchorAlignmentEditor from './AnchorAlignmentEditor';
 import { styles } from './Layout.styles';
 
 function Layout() {
@@ -34,6 +35,7 @@ function Layout() {
         [Alignment Workspace]
         <hr />
         Reference: { JSON.stringify( reference ) }
+        <AnchorAlignmentEditor/>
       </div>
     </div>
   );

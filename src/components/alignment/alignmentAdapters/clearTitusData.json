@@ -1,0 +1,1046 @@
+[
+  {
+    "ugnt": "Παῦλος",
+    "na28": "Παῦλος",
+    "normalized": "Παυλος",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "δοῦλος",
+    "na28": "δοῦλος",
+    "normalized": "δουλος",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "θεοῦ",
+    "na28": "θεοῦ,",
+    "normalized": "θεου",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἀπόστολος",
+    "na28": "ἀπόστολος",
+    "normalized": "αποστολος",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "δὲ",
+    "na28": "δὲ",
+    "normalized": "δε",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "Ἰησοῦ",
+    "na28": "Ἰησοῦ",
+    "normalized": "Ιησου",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "Χριστοῦ",
+    "na28": "Χριστοῦ",
+    "normalized": "Χριστου",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "κατὰ",
+    "na28": "κατὰ",
+    "normalized": "κατα",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "πίστιν",
+    "na28": "πίστιν",
+    "normalized": "πιστιν",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἐκλεκτῶν",
+    "na28": "ἐκλεκτῶν",
+    "normalized": "εκλεκτων",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "θεοῦ",
+    "na28": "θεοῦ",
+    "normalized": "θεου",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "καὶ",
+    "na28": "καὶ",
+    "normalized": "και",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "ἐπίγνωσιν",
+    "na28": "ἐπίγνωσιν",
+    "normalized": "επιγνωσιν",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἀληθείας",
+    "na28": "ἀληθείας",
+    "normalized": "αληθειας",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "τῆς",
+    "na28": "τῆς",
+    "normalized": "της",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "κατʼ",
+    "na28": "κατ’",
+    "normalized": "κατʼ",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "εὐσέβειαν",
+    "na28": "εὐσέβειαν",
+    "normalized": "ευσεβειαν",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἐπʼ",
+    "na28": "ἐπ’",
+    "normalized": "επʼ",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "ἐλπίδι",
+    "na28": "ἐλπίδι",
+    "normalized": "ελπιδι",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ζωῆς",
+    "na28": "ζωῆς",
+    "normalized": "ζωης",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "αἰωνίου",
+    "na28": "αἰωνίου,",
+    "normalized": "αιωνιου",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "ἣν",
+    "na28": "ἣν",
+    "normalized": "ην",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "ἐπηγγείλατο",
+    "na28": "ἐπηγγείλατο",
+    "normalized": "επηγγειλατο",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "ὁ",
+    "na28": "ὁ",
+    "normalized": "ο",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "ἀψευδὴς",
+    "na28": "ἀψευδὴς",
+    "normalized": "αψευδης",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "θεὸς",
+    "na28": "θεὸς",
+    "normalized": "θεος",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "πρὸ",
+    "na28": "πρὸ",
+    "normalized": "προ",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "χρόνων",
+    "na28": "χρόνων",
+    "normalized": "χρονων",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "αἰωνίων",
+    "na28": "αἰωνίων,",
+    "normalized": "αιωνιων",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "ἐφανέρωσεν",
+    "na28": "ἐφανέρωσεν",
+    "normalized": "εφανερωσεν",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "δὲ",
+    "na28": "δὲ",
+    "normalized": "δε",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "καιροῖς",
+    "na28": "καιροῖς",
+    "normalized": "καιροις",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἰδίοις",
+    "na28": "ἰδίοις",
+    "normalized": "ιδιοις",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "τὸν",
+    "na28": "τὸν",
+    "normalized": "τον",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "λόγον",
+    "na28": "λόγον",
+    "normalized": "λογον",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "αὐτοῦ",
+    "na28": "αὐτοῦ",
+    "normalized": "αυτου",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "ἐν",
+    "na28": "ἐν",
+    "normalized": "εν",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "κηρύγματι",
+    "na28": "κηρύγματι,",
+    "normalized": "κηρυγματι",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ὃ",
+    "na28": "ὃ",
+    "normalized": "ο",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "ἐπιστεύθην",
+    "na28": "ἐπιστεύθην",
+    "normalized": "επιστευθην",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "ἐγὼ",
+    "na28": "ἐγὼ",
+    "normalized": "εγω",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "κατʼ",
+    "na28": "κατ’",
+    "normalized": "κατʼ",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "ἐπιταγὴν",
+    "na28": "ἐπιταγὴν",
+    "normalized": "επιταγην",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "τοῦ",
+    "na28": "τοῦ",
+    "normalized": "του",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "σωτῆρος",
+    "na28": "σωτῆρος",
+    "normalized": "σωτηρος",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἡμῶν",
+    "na28": "ἡμῶν",
+    "normalized": "ημων",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "θεοῦ",
+    "na28": "θεοῦ,",
+    "normalized": "θεου",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "Τίτῳ",
+    "na28": "Τίτῳ",
+    "normalized": "Τιτω",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "γνησίῳ",
+    "na28": "γνησίῳ",
+    "normalized": "γνησιω",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "τέκνῳ",
+    "na28": "τέκνῳ",
+    "normalized": "τεκνω",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "κατὰ",
+    "na28": "κατὰ",
+    "normalized": "κατα",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "κοινὴν",
+    "na28": "κοινὴν",
+    "normalized": "κοινην",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "πίστιν",
+    "na28": "πίστιν,",
+    "normalized": "πιστιν",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "χάρις",
+    "na28": "χάρις",
+    "normalized": "χαρις",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "καὶ",
+    "na28": "καὶ",
+    "normalized": "και",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "εἰρήνη",
+    "na28": "εἰρήνη",
+    "normalized": "ειρηνη",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἀπὸ",
+    "na28": "ἀπὸ",
+    "normalized": "απο",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "θεοῦ",
+    "na28": "θεοῦ",
+    "normalized": "θεου",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "πατρὸς",
+    "na28": "πατρὸς",
+    "normalized": "πατρος",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "καὶ",
+    "na28": "καὶ",
+    "normalized": "και",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "Χριστοῦ",
+    "na28": "Χριστοῦ",
+    "normalized": "Χριστου",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "Ἰησοῦ",
+    "na28": "Ἰησοῦ",
+    "normalized": "Ιησου",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "τοῦ",
+    "na28": "τοῦ",
+    "normalized": "του",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "σωτῆρος",
+    "na28": "σωτῆρος",
+    "normalized": "σωτηρος",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἡμῶν",
+    "na28": "ἡμῶν.",
+    "normalized": "ημων",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "Τούτου",
+    "na28": "Τούτου",
+    "normalized": "Τουτου",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "χάριν",
+    "na28": "χάριν",
+    "normalized": "χαριν",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "ἀπέλιπόν",
+    "na28": "ἀπέλιπόν",
+    "normalized": "απελιπον",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "σε",
+    "na28": "σε",
+    "normalized": "σε",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "ἐν",
+    "na28": "ἐν",
+    "normalized": "εν",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "Κρήτῃ",
+    "na28": "Κρήτῃ,",
+    "normalized": "Κρητη",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἵνα",
+    "na28": "ἵνα",
+    "normalized": "ινα",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "τὰ",
+    "na28": "τὰ",
+    "normalized": "τα",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "λείποντα",
+    "na28": "λείποντα",
+    "normalized": "λειποντα",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "ἐπιδιορθώσῃ",
+    "na28": "ἐπιδιορθώσῃ",
+    "normalized": "επιδιορθωση",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "καὶ",
+    "na28": "καὶ",
+    "normalized": "και",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "καταστήσῃς",
+    "na28": "καταστήσῃς",
+    "normalized": "καταστησης",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "κατὰ",
+    "na28": "κατὰ",
+    "normalized": "κατα",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "πόλιν",
+    "na28": "πόλιν",
+    "normalized": "πολιν",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "πρεσβυτέρους",
+    "na28": "πρεσβυτέρους,",
+    "normalized": "πρεσβυτερους",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "ὡς",
+    "na28": "ὡς",
+    "normalized": "ως",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "ἐγώ",
+    "na28": "ἐγώ",
+    "normalized": "εγω",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "σοι",
+    "na28": "σοι",
+    "normalized": "σοι",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "διεταξάμην",
+    "na28": "διεταξάμην,",
+    "normalized": "διεταξαμην",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "εἴ",
+    "na28": "εἴ",
+    "normalized": "ει",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "τίς",
+    "na28": "τίς",
+    "normalized": "τις",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "ἐστιν",
+    "na28": "ἐστιν",
+    "normalized": "εστιν",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "ἀνέγκλητος",
+    "na28": "ἀνέγκλητος,",
+    "normalized": "ανεγκλητος",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "μιᾶς",
+    "na28": "μιᾶς",
+    "normalized": "μιας",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "γυναικὸς",
+    "na28": "γυναικὸς",
+    "normalized": "γυναικος",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἀνήρ",
+    "na28": "ἀνήρ,",
+    "normalized": "ανηρ",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "τέκνα",
+    "na28": "τέκνα",
+    "normalized": "τεκνα",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἔχων",
+    "na28": "ἔχων",
+    "normalized": "εχων",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "πιστά",
+    "na28": "πιστά,",
+    "normalized": "πιστα",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "μὴ",
+    "na28": "μὴ",
+    "normalized": "μη",
+    "partOfSpeech": "adv"
+  },
+  {
+    "ugnt": "ἐν",
+    "na28": "ἐν",
+    "normalized": "εν",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "κατηγορίᾳ",
+    "na28": "κατηγορίᾳ",
+    "normalized": "κατηγορια",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἀσωτίας",
+    "na28": "ἀσωτίας",
+    "normalized": "ασωτιας",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἢ",
+    "na28": "ἢ",
+    "normalized": "η",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "ἀνυπότακτα",
+    "na28": "ἀνυπότακτα.",
+    "normalized": "ανυποτακτα",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "δεῖ",
+    "na28": "δεῖ",
+    "normalized": "δει",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "γὰρ",
+    "na28": "γὰρ",
+    "normalized": "γαρ",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "τὸν",
+    "na28": "τὸν",
+    "normalized": "τον",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "ἐπίσκοπον",
+    "na28": "ἐπίσκοπον",
+    "normalized": "επισκοπον",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἀνέγκλητον",
+    "na28": "ἀνέγκλητον",
+    "normalized": "ανεγκλητον",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "εἶναι",
+    "na28": "εἶναι",
+    "normalized": "ειναι",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "ὡς",
+    "na28": "ὡς",
+    "normalized": "ως",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "θεοῦ",
+    "na28": "θεοῦ",
+    "normalized": "θεου",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "οἰκονόμον",
+    "na28": "οἰκονόμον,",
+    "normalized": "οικονομον",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "μὴ",
+    "na28": "μὴ",
+    "normalized": "μη",
+    "partOfSpeech": "adv"
+  },
+  {
+    "ugnt": "αὐθάδη",
+    "na28": "αὐθάδη,",
+    "normalized": "αυθαδη",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "μὴ",
+    "na28": "μὴ",
+    "normalized": "μη",
+    "partOfSpeech": "adv"
+  },
+  {
+    "ugnt": "ὀργίλον",
+    "na28": "ὀργίλον,",
+    "normalized": "οργιλον",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "μὴ",
+    "na28": "μὴ",
+    "normalized": "μη",
+    "partOfSpeech": "adv"
+  },
+  {
+    "ugnt": "πάροινον",
+    "na28": "πάροινον,",
+    "normalized": "παροινον",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "μὴ",
+    "na28": "μὴ",
+    "normalized": "μη",
+    "partOfSpeech": "adv"
+  },
+  {
+    "ugnt": "πλήκτην",
+    "na28": "πλήκτην,",
+    "normalized": "πληκτην",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "μὴ",
+    "na28": "μὴ",
+    "normalized": "μη",
+    "partOfSpeech": "adv"
+  },
+  {
+    "ugnt": "αἰσχροκερδῆ",
+    "na28": "αἰσχροκερδῆ,",
+    "normalized": "αισχροκερδη",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "ἀλλὰ",
+    "na28": "ἀλλὰ",
+    "normalized": "αλλα",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "φιλόξενον",
+    "na28": "φιλόξενον",
+    "normalized": "φιλοξενον",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "φιλάγαθον",
+    "na28": "φιλάγαθον",
+    "normalized": "φιλαγαθον",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "σώφρονα",
+    "na28": "σώφρονα",
+    "normalized": "σωφρονα",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "δίκαιον",
+    "na28": "δίκαιον",
+    "normalized": "δικαιον",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "ὅσιον",
+    "na28": "ὅσιον",
+    "normalized": "οσιον",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "ἐγκρατῆ",
+    "na28": "ἐγκρατῆ,",
+    "normalized": "εγκρατη",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "ἀντεχόμενον",
+    "na28": "ἀντεχόμενον",
+    "normalized": "αντεχομενον",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "τοῦ",
+    "na28": "τοῦ",
+    "normalized": "του",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "κατὰ",
+    "na28": "κατὰ",
+    "normalized": "κατα",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "τὴν",
+    "na28": "τὴν",
+    "normalized": "την",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "διδαχὴν",
+    "na28": "διδαχὴν",
+    "normalized": "διδαχην",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "πιστοῦ",
+    "na28": "πιστοῦ",
+    "normalized": "πιστου",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "λόγου",
+    "na28": "λόγου,",
+    "normalized": "λογου",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἵνα",
+    "na28": "ἵνα",
+    "normalized": "ινα",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "δυνατὸς",
+    "na28": "δυνατὸς",
+    "normalized": "δυνατος",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "ᾖ",
+    "na28": "ᾖ",
+    "normalized": "η",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "καὶ",
+    "na28": "καὶ",
+    "normalized": "και",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "παρακαλεῖν",
+    "na28": "παρακαλεῖν",
+    "normalized": "παρακαλειν",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "ἐν",
+    "na28": "ἐν",
+    "normalized": "εν",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "τῇ",
+    "na28": "τῇ",
+    "normalized": "τη",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "διδασκαλίᾳ",
+    "na28": "διδασκαλίᾳ",
+    "normalized": "διδασκαλια",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "τῇ",
+    "na28": "τῇ",
+    "normalized": "τη",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "ὑγιαινούσῃ",
+    "na28": "ὑγιαινούσῃ",
+    "normalized": "υγιαινουση",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "καὶ",
+    "na28": "καὶ",
+    "normalized": "και",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "τοὺς",
+    "na28": "τοὺς",
+    "normalized": "τους",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "ἀντιλέγοντας",
+    "na28": "ἀντιλέγοντας",
+    "normalized": "αντιλεγοντας",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "ἐλέγχειν",
+    "na28": "ἐλέγχειν.",
+    "normalized": "ελεγχειν",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "Εἰσὶν",
+    "na28": "Εἰσὶν",
+    "normalized": "Εισιν",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "γὰρ",
+    "na28": "γὰρ",
+    "normalized": "γαρ",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "πολλοὶ",
+    "na28": "πολλοὶ",
+    "normalized": "πολλοι",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "καὶ",
+    "na28": "[καὶ]",
+    "normalized": "[και]",
+    "partOfSpeech": "adv"
+  },
+  {
+    "ugnt": "ἀνυπότακτοι",
+    "na28": "ἀνυπότακτοι,",
+    "normalized": "ανυποτακτοι",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "ματαιολόγοι",
+    "na28": "ματαιολόγοι",
+    "normalized": "ματαιολογοι",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "καὶ",
+    "na28": "καὶ",
+    "normalized": "και",
+    "partOfSpeech": "conj"
+  },
+  {
+    "ugnt": "φρεναπάται",
+    "na28": "φρεναπάται,",
+    "normalized": "φρεναπαται",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "μάλιστα",
+    "na28": "μάλιστα",
+    "normalized": "μαλιστα",
+    "partOfSpeech": "adv"
+  },
+  {
+    "ugnt": "οἱ",
+    "na28": "οἱ",
+    "normalized": "οι",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "ἐκ",
+    "na28": "ἐκ",
+    "normalized": "εκ",
+    "partOfSpeech": "prep"
+  },
+  {
+    "ugnt": "τῆς",
+    "na28": "τῆς",
+    "normalized": "της",
+    "partOfSpeech": "det"
+  },
+  {
+    "ugnt": "περιτομῆς",
+    "na28": "περιτομῆς,",
+    "normalized": "περιτομης",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "οὓς",
+    "na28": "οὓς",
+    "normalized": "ους",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "δεῖ",
+    "na28": "δεῖ",
+    "normalized": "δει",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "ἐπιστομίζειν",
+    "na28": "ἐπιστομίζειν,",
+    "normalized": "επιστομιζειν",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "οἵτινες",
+    "na28": "οἵτινες",
+    "normalized": "οιτινες",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "ὅλους",
+    "na28": "ὅλους",
+    "normalized": "ολους",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "οἴκους",
+    "na28": "οἴκους",
+    "normalized": "οικους",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "ἀνατρέπουσιν",
+    "na28": "ἀνατρέπουσιν",
+    "normalized": "ανατρεπουσιν",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "διδάσκοντες",
+    "na28": "διδάσκοντες",
+    "normalized": "διδασκοντες",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "ἃ",
+    "na28": "ἃ",
+    "normalized": "α",
+    "partOfSpeech": "pron"
+  },
+  {
+    "ugnt": "μὴ",
+    "na28": "μὴ",
+    "normalized": "μη",
+    "partOfSpeech": "adv"
+  },
+  {
+    "ugnt": "δεῖ",
+    "na28": "δεῖ",
+    "normalized": "δει",
+    "partOfSpeech": "verb"
+  },
+  {
+    "ugnt": "αἰσχροῦ",
+    "na28": "αἰσχροῦ",
+    "normalized": "αισχρου",
+    "partOfSpeech": "adj"
+  },
+  {
+    "ugnt": "κέρδους",
+    "na28": "κέρδους",
+    "normalized": "κερδους",
+    "partOfSpeech": "noun"
+  },
+  {
+    "ugnt": "χάριν",
+    "na28": "χάριν.",
+    "normalized": "χαριν",
+    "partOfSpeech": "prep"
+  }
+]

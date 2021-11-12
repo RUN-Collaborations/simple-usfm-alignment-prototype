@@ -1,5 +1,5 @@
 {
-  "short_name": "Simple_USFM Alignment Prototype",
+  "short_name": "S.U.A.P.",
   "name": "Simple USFM Alignment Prototype",
   "icons": [
     {
@@ -18,7 +18,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone"

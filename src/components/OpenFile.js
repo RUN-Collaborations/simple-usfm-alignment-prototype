@@ -15,7 +15,8 @@ export default function OpenFile ({onFile}) {
       content: openedFile.content,
       lastModified: openedFile.lastModified,
     });
-  }, [onFile, openedFile.name, openedFile.content, openedFile.lastModified]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [openedFile.name, openedFile.content, openedFile.lastModified]); // exclude onFile to prevent infinite loop.
 
   return (
     <button onClick={openFileSelector}>Open</button>

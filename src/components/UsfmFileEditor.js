@@ -17,24 +17,26 @@ export default function UsfmFileEditor ({
   onSectionIndex,
   reference,
   onReference,
+  file,
+  onFile: _onFile,
+  type,
 }) {
-  const initialFile = {
-    name: undefined, content: undefined, lastModified: undefined
-  };
-  const [file, setFile] = useState(initialFile);
+
   const [sectionable, setSectionable] = useState(true);
   const [blockable, setBlockable] = useState(true);
 
   const onSectionable = () => { setSectionable(!sectionable); };
   const onBlockable = () => { setBlockable(!blockable); };
 
+  const onFile = useCallback((_file) => { _onFile({ file: _file, type }); }, [_onFile, type]);
+
   const onText = useCallback((text) => {
-    setFile({
+    onFile({
       name: file.name,
       content: text,
       lastModified: file.lastModified,
     });
-  }, [file.name, file.lastModified]);
+  }, [file.name, file.lastModified, onFile]);
   
   const textEditor = useMemo(() => {
     const onVerse = (verse) => {
@@ -71,7 +73,7 @@ export default function UsfmFileEditor ({
   return (
     <div style={styles.textFileEditor}>
       <div style={styles.toolbar}>
-        <OpenFile onFile={setFile} />
+        <OpenFile onFile={onFile} />
         <button onClick={onSectionable}>Sections</button>
         <button onClick={onBlockable}>Paragraphs</button>
         { editable && <ExportFile file={file} /> }

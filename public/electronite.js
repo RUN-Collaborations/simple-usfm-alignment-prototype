@@ -1,6 +1,6 @@
 // Modules to control application life and create native browser window
 const path = require('path')
-const { app, BrowserWindow } = require('electron')
+const { app, BrowserWindow } = require('electronite')
 const isDev = require('electron-is-dev')
 
 const createWindow = () => {

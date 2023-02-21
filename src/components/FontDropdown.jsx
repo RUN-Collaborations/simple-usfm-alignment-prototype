@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 
 import {
   useDetectFonts,
-  useAssumeGraphite,
+  // useAssumeGraphite,
   fontList as fontsArray,
   graphiteEnabledFontList as graphiteEnabledFontsArray
 } from 'font-detect-rhl';
@@ -30,9 +30,11 @@ export default function FontDropdown(fontDropdownProps) {
   };
 
   // Should Graphite-enabled fonts be detected?
-  const isGraphiteAssumed = useAssumeGraphite({});
+  // For purposes of Electronite, they will always be detected now.
+  const isGraphiteAssumed = true; // useAssumeGraphite({});
 
   // Utilizing Graphite-enabled web fonts
+  // For purposes of Electronite, these will always be shown for now.
   const GraphiteEnabledWebFonts =
     isGraphiteAssumed &&
     GraphiteEnabledWebFontsArray.map((font, index) => (

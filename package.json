@@ -1,9 +1,9 @@
 {
-  "name": "electron-simple-usfm-alignment-prototype",
+  "name": "electronite-simple-usfm-alignment-prototype",
   "license": "MIT",
   "version": "0.7.34",
   "homepage": "./",
-  "main": "./public/electron.js",
+  "main": "./public/electronite.js",
   "dependencies": {
     "@headlessui/react": "^1.4.3",
     "@testing-library/jest-dom": "^5.11.4",
@@ -36,8 +36,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "concurrently -k \"cross-env BROWSER=none && yarn start\" \"yarn:electron\"",
-    "electron": "wait-on tcp:127.0.0.1:3000 && electron ."
+    "dev": "concurrently -k \"cross-env BROWSER=none && yarn start\" \"yarn:electronite\"",
+    "electronite": "wait-on tcp:127.0.0.1:3000 && electronite ."
   },
   "browserslist": {
     "production": [
@@ -60,6 +60,7 @@
     "cross-env": "^7.0.3",
     "electron": "^23.1.0",
     "electron-is-dev": "^2.0.0",
+    "electronite": "22.0.3-graphite",
     "eslint": "7.32.0",
     "eslint-config-prettier": "^8.4.0",
     "eslint-plugin-import": "^2.25.4",

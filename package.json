@@ -4,11 +4,15 @@
   "version": "0.7.34",
   "homepage": "./",
   "main": "./public/electron.js",
+  "description": "Simple USFM Alignment Prototype",
+  "author": "RUN",
   "dependencies": {
     "@headlessui/react": "^1.4.3",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "electron-is-dev": "^2.0.0",
+    "electron-squirrel-startup": "^1.0.0",
     "font-detect-rhl": "^1.0.4",
     "js-file-download": "^0.4.12",
     "preval.macro": "^5.0.0",
@@ -32,12 +36,14 @@
     "workbox-streams": "^5.1.3"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "dev": "concurrently -k \"cross-env BROWSER=none yarn browser-dev\" \"yarn electron-wait\"",
+    "browser-dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "concurrently -k \"cross-env BROWSER=none && yarn start\" \"yarn:electron\"",
-    "electron": "wait-on tcp:127.0.0.1:3000 && electron ."
+    "package": "yarn build && electron-forge package",
+    "make": "yarn build && electron-forge make",
+    "electron-wait": "wait-on tcp:127.0.0.1:3000 && electron-forge start"
   },
   "browserslist": {
     "production": [
@@ -54,12 +60,17 @@
     ]
   },
   "devDependencies": {
+    "@electron-forge/cli": "^6.0.5",
+    "@electron-forge/maker-deb": "^6.0.5",
+    "@electron-forge/maker-dmg": "^6.0.5",
+    "@electron-forge/maker-rpm": "^6.0.5",
+    "@electron-forge/maker-squirrel": "^6.0.5",
+    "@electron-forge/maker-zip": "^6.0.5",
     "@unfoldingword/eslint-config": "^1.3.3",
     "autoprefixer": "^10.4.2",
     "concurrently": "^7.6.0",
     "cross-env": "^7.0.3",
     "electron": "^23.1.0",
-    "electron-is-dev": "^2.0.0",
     "eslint": "7.32.0",
     "eslint-config-prettier": "^8.4.0",
     "eslint-plugin-import": "^2.25.4",
